@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">HomeAway</string>
+    <string name="email_placeholder">"Enter Registered Email "</string>
+    <string name="pwd_placeholder">Enter Password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="not_registered">Not Registered?</string>
+    <string name="do_not_have_an_account">not_registered</string>
+    <string name="sign_up">Sign Up</string>
+</resources>
